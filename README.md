@@ -1,2 +1,3 @@
-# PLP-2023.2
-Exercicios das aulas de Paradigmas de Linguagens de Programação feitos no semestre 2023.2
+# Exercicios feitos na cadeira de PLP-2023.2
+Os exercicios com nome de AULA foram feitos em sala, já os demais foram feitos em casa 
+
